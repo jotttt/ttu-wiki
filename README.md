@@ -1,1 +1,1 @@
-This is TTÜ front-end design project
+This is TTÜ WIKI front-end design project
